@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "pomelo-logger": "latest", 
-    "csv": "latest"
+    "csv": "0.3.x"
   }
 }
